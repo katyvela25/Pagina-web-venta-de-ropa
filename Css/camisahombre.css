@@ -1,0 +1,60 @@
+a#iniciohombre{float: right;
+color:black
+
+}
+
+a#home{float:right;
+	margin-right:10px;
+	   color:black
+}
+a#iniciohombre:hover{ color:red;}
+a#home:hover{ color:red;}
+
+img#camisa1{float:left;
+			margin-left:50px;
+			margin-top:50px;
+		}
+
+ul#azul{float:left;
+		margin-top: 350px;
+		margin-left:-800px;
+		color:blue;
+	}
+a#compra1{float:left;
+		  margin-top:500px;
+		  margin-left:-760px;
+		  color:blue;
+}
+a#compra1:hover{color:black;}
+
+img#camisa2{float:left;
+	margin-top:50px;
+	margin-left: 200px;
+
+}
+ul#roja{float:left;
+	margin-top:350px;
+	margin-left:-300px;
+
+}
+a#compra2{float:left;
+		margin-top:500px;
+		margin-left: -260px;
+		color:black;
+}
+a#compra2:hover{color:red;}
+
+img#camisa3{float:right;
+	margin-top: 50px;
+	margin-right: -50px;
+}
+ul#blanca{float: right;
+	margin-right: 250px;
+	color: white;
+}
+a#compra3{float: right;
+	margin-top:160px;
+		margin-right:-110px;
+		color:white;
+}
+a#compra3:hover{color:grey;}

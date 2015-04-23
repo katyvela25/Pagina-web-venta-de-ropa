@@ -1,0 +1,60 @@
+a#iniciohombre{float: right;
+color:white;
+
+}
+
+a#home{float:right;
+	margin-right:10px;
+	   color:white;
+}
+a#iniciohombre:hover{ color:red;}
+a#home:hover{ color:red;}
+
+img#vestido1{float:left;
+			margin-left:50px;
+			margin-top:50px;
+		}
+
+ul#pepas{float:left;
+		margin-top: 350px;
+		margin-left:-800px;
+		color:blue;
+	}
+a#compra1{float:left;
+		  margin-top:500px;
+		  margin-left:-760px;
+		  color:blue;
+}
+a#compra1:hover{color:black;}
+
+img#vestido2{float:left;
+	margin-top:50px;
+	margin-left: 200px;
+
+}
+ul#puntos{float:left;
+	margin-top:350px;
+	margin-left:-300px;
+
+}
+a#compra2{float:left;
+		margin-top:500px;
+		margin-left: -260px;
+		color:black;
+}
+a#compra2:hover{color:red;}
+
+img#vestido3{float:right;
+	margin-top: 50px;
+	margin-right: -50px;
+}
+ul#negro{float: right;
+	margin-right: 250px;
+	color: white;
+}
+a#compra3{float: right;
+	margin-top:160px;
+		margin-right:-110px;
+		color:white;
+}
+a#compra3:hover{color:grey;}

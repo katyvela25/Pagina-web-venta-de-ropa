@@ -1,0 +1,61 @@
+a#iniciohombre{float: right;
+color:white;
+
+}
+
+a#home{float:right;
+	margin-right:10px;
+	   color:white
+}
+a#iniciohombre:hover{ color:red;}
+a#home:hover{ color:red;}
+
+img#pantalon1{float:left;
+			margin-left:50px;
+			margin-top:50px;
+		}
+
+ul#azul{float:left;
+		margin-top: 350px;
+		margin-left:-800px;
+		color:#08F4F8;
+	}
+a#compra1{float:left;
+		  margin-top:500px;
+		  margin-left:-760px;
+		  color:#08F4F8;
+}
+a#compra1:hover{color:#A29C98;}
+
+img#pantalon2{float:left;
+	margin-top:50px;
+	margin-left: 200px;
+
+}
+ul#rojo{float:left;
+	margin-top:350px;
+	margin-left:-300px;
+	color: red;
+
+}
+a#compra2{float:left;
+		margin-top:500px;
+		margin-left: -260px;
+		color:red;
+}
+a#compra2:hover{color:black;}
+
+img#pantalon3{float:right;
+	margin-top: 50px;
+	margin-right: -50px;
+}
+ul#blanco{float: right;
+	margin-right: 250px;
+	color:white;
+}
+a#compra3{float: right;
+	margin-top:160px;
+		margin-right:-110px;
+		color:white;
+}
+a#compra3:hover{color:grey;}

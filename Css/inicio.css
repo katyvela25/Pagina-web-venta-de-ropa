@@ -1,0 +1,35 @@
+
+body > h2 {
+	font-family: cursive, strong; font-size: 35px; color:#33FFFF;}
+h2 > a > img {float:left;
+	margin-top:60px;
+	margin-left:300px;
+}
+h3 > a > img {float:right;
+	margin-top:60px;
+	margin-right:300px;
+}
+left > a{float:left;
+		margin-top: 50px;
+		margin-left:390px;
+		font-size:25px;
+		color: #33FFFF;
+		text-decoration:none;
+		font-family:"Comic Sans MS", "Calibri";
+	}
+left > a:hover{color:#33FFFF;}
+right > a{float:right;
+	margin-top:50px;
+	margin-right:390px;
+		font-size:25px;
+		color: #33FFFF;
+		text-decoration:none;
+		font-family:"Comic Sans MS", "Calibri";
+	}
+right > a:hover{color:#33FFFF;}
+
+p  {float:center;
+	margin-top:650px;
+	margin-left:560px;
+	text-decoration:none;
+	color:#33FFFF;}
